@@ -1,0 +1,26 @@
+{
+  "name": "neo4j-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luyifanwork/neo4j_demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "ejs": "^2.4.2",
+    "morgan": "*",
+    "neo4j-driver": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/luyifanwork/neo4j_demo/issues"
+  },
+  "homepage": "https://github.com/luyifanwork/neo4j_demo#readme"
+}
